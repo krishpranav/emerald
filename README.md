@@ -5,8 +5,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 ## About Emerald:
-- Emerald works on all operating system(linux, windows, macOS)
+- Emerald works on all operating system 💻
 - Fast 🚀
+
+## Screenshots:
+- // TODO
 
 ## Building:
 - binary is also available in the [releases]()
