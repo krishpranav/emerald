@@ -16,7 +16,7 @@
 ```
 $ git clone https://github.com/krishpranav/emerald
 $ cd emerald
-$ make build
+$ ./build.sh
 ```
 
 ## Running:
